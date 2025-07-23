@@ -156,10 +156,10 @@ model.export(format='engine', dynamic=False, int8=True)
 
 | Format      | Path                                                    | Size     |
 |-------------|---------------------------------------------------------|----------|
-| PyTorch     | `yolov8n-kitti/exp/weights/best.pt`                     | ~6.2 MB  |
-| ONNX        | `yolov8n-kitti/exp/weights/best.onnx`                   | ~11.7 MB |
-| ONNX-INT8   | `Pruned_Quantized/onxx/After_Quant_best_int8.onnx`      | ~3.2  MB |
-| TensorRT    | `Pruned/engine/pruned_int8.engine`                      | —        |
+| PyTorch     | `yolov8n-kitti/exp/weights/best.pt`                     | ~6.2  MB |
+| ONNX        | `kitti_data/Pruned/best_int8.onnx`                      | ~11.7 MB |
+| ONNX-INT8   | `Pruned_Quantized/After_Quant_best_int8.onnx`           | ~3.2  MB |
+| TensorRT    | `engine/pruned_int8.engine`                             | ~6.7  MB |
 
 ## 📷 Visualizations
 
