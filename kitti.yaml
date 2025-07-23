@@ -1,0 +1,12 @@
+names:
+- Car
+- Pedestrian
+- Van
+- Cyclist
+- Truck
+- Misc
+- Tram
+- Person_sitting
+nc: 8
+train: /content/drive/MyDrive/kitti_data/data_object_image_2/train
+val: /content/drive/MyDrive/kitti_data/data_object_image_2/valid
