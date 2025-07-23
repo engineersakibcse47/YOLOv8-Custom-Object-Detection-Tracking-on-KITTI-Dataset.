@@ -165,7 +165,7 @@ model.export(format='engine', dynamic=False, int8=True)
 
 ### 📌 Sample Results
 <div align="center">
-  <img src="YOLO-KITTI-Object-Detection-Edge-Optimizer/kitti_data/yolov8n-kitti/exp2" alt="YOLOv8 KITTI Example" width="600"/>
+  <img src="kitti_data/yolov8n-kitti/exp2/val_batch1_pred.jpg" alt="YOLOv8 KITTI Example" width="600"/>
   <p><em>YOLOv8 detecting Cars, Pedestrians, Cyclists</em></p>
 </div>
 
