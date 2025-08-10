@@ -1,4 +1,4 @@
-# 🚗 YYOLOv8:Edge-Optimized Custom Object Detection on KITTI Dataset. 
+# 🚗 YYOLOv8: Edge-Optimized Object Detection on KITTI Dataset. 
 
 YOLO-KITTI: 30 % pruned, INT8 TensorRT pipeline delivering 0.822 mAP @ 8.6 ms for real-time ADAS deployment
 
