@@ -1,6 +1,6 @@
-# 🚗 YOLO-KITTI-Object-Detection-Edge-Optimizer 
+# 🚗 YYOLOv8: Custom Object Detection & Edge-Optimized on KITTI Dataset. 
 
-YOLO-KITTI Edge Optimizer: 30 % pruned, INT8 TensorRT pipeline delivering 0.822 mAP @ 8.6 ms for real-time ADAS deployment
+YOLO-KITTI: 30 % pruned, INT8 TensorRT pipeline delivering 0.822 mAP @ 8.6 ms for real-time ADAS deployment
 
 [![Ultralytics YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8-blue?logo=github)](https://github.com/ultralytics/ultralytics)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
